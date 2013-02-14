@@ -3,12 +3,18 @@ body {
 }
 
 h1 {
+  opacity:.7;
+  color:#FFFFFF;
+}
+
+.header {
   opacity:.8;
-  color:#000000;
+  background:#000000;
+  margin:0px;
 }
 
 .nav-bar {
   opacity:.5;
-  background:#221111;
+  background:#000000;
   margin:0px;
 }

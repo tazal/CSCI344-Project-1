@@ -2,15 +2,12 @@ body {
   background:#CCCCFF;
 }
 
-h1 {
-  opacity:.7;
-  color:#FFFFFF;
-}
-
 .header {
-  opacity:.8;
+  opacity:.7;
   background:#000000;
+  color:#FFFFFF;
   margin:0px;
+  padding:20px;
 }
 
 .nav-bar {

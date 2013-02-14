@@ -1,5 +1,5 @@
 body {
-  background:#EFCFFF;
+  background:#CCCCFF;
 }
 
 h1 {
@@ -9,5 +9,6 @@ h1 {
 
 .nav-bar {
   opacity:.5;
-  background:#000000;
+  background:#221111;
+  margin:0px;
 }

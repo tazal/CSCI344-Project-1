@@ -1,6 +1,6 @@
 Layout and use of Orbit inspired by http://www.jacquelinewest.com/books.php
 
-http://chella.com/ referenced for Bootstrap code
+http://chella.com/ referenced for Bootstrap code and Carousel
 
 Image sources:
 http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Omega_Nebula.jpg/739px-Omega_Nebula.jpg

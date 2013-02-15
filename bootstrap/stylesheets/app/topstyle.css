@@ -1,0 +1,98 @@
+@import url(http://fonts.googleapis.com/css?family=Nova+Square);
+@import url(http://fonts.googleapis.com/css?family=Maven+Pro);
+
+body {
+  background:#CCCCFF;
+  font-family:"Maven Pro", sans-serif;
+}
+
+h1{
+  font-family:"Nova Square", sans-serif;
+}
+
+h3 {
+  font-family:"Nova Square", sans-serif;
+  color:#FFFFFF;
+}
+
+h4 {
+  font-family:"Nova Square", sans-serif;
+  color:#FFFFFF;
+}
+
+h5 {
+  font-family:"Nova Square", sans-serif;
+  color:#FFFFFF;
+}
+
+a {
+  color:#FF8888;
+}
+
+.centered {
+  text-align:center;
+}
+
+.dark {
+  background:#000000;
+  opacity: .8;
+}
+
+.header {
+  opacity:.7;
+  background:#000000;
+  color:#FFFFFF;
+  margin:0px;
+  padding:20px;
+}
+
+.subheader {
+  opacity:.6;
+  background:#000000;
+  margin:0px 0px 0px 0px;
+  padding:10px;
+}
+
+.blurbs {
+  opacity:.3;
+  background:#000000;
+}
+
+.footer {
+  opacity: .7;
+  background:#000000;
+  font-size:10px;
+  color:#FFFFFF;
+  padding:10px;
+}
+
+.footer-text {
+  opacity:.5;
+}
+
+.icon {
+  height:40px;
+}
+
+.nav-bar {
+  opacity:.6;
+  background:#000000;
+  margin:0px;
+}
+
+.textbox {
+  opacity:.6;
+  background:#000000;
+  color:#FFFFFF;
+  margin:25px 0px;
+  padding:20px;
+  border:1px solid #FFFFFF;
+}
+
+#slider {
+  margin:0px;
+}
+
+#registration-result {
+  display:none;
+}

@@ -10,8 +10,39 @@ body {
   padding:20px;
 }
 
+.subheader {
+  opacity:.6;
+  background:#000000;
+  color:#FFFFFF;
+  margin:20px 0px 0px 0px;
+  padding:10px;
+}
+
+.subheader-text {
+  float:left;
+}
+
+.subheader-img {
+  float:right;
+}
+
 .nav-bar {
   opacity:.5;
   background:#000000;
+  margin:0px;
+}
+
+.textbox {
+  opacity:.4;
+  background:#FFFFFF;
+  color:#000000;
+  margin:0px 0px 20px 0px;
+  padding:5px;
+  border-width:0px 10px 10px 10px;
+  border-style:solid;
+  border-color:#000000;
+}
+
+#slider {
   margin:0px;
 }

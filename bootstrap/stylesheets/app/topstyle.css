@@ -74,10 +74,11 @@ a {
   height:40px;
 }
 
-.nav-bar {
-  opacity:.6;
-  background:#000000;
+.navbar-inner {
+  opacity:.8;
+  background:#FFFFFF;
   margin:0px;
+  border:none;
 }
 
 .textbox {

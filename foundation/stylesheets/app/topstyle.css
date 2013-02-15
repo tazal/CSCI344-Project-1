@@ -2,6 +2,15 @@ body {
   background:#CCCCFF;
 }
 
+h3 {
+  font-size:30px;
+  color:#FFFFFF;
+}
+
+a {
+  color:#FF8888;
+}
+
 .header {
   opacity:.7;
   background:#000000;
@@ -13,16 +22,24 @@ body {
 .subheader {
   opacity:.6;
   background:#000000;
-  color:#FFFFFF;
-  margin:20px 0px 0px 0px;
+  margin:0px 0px 0px 0px;
   padding:10px;
 }
 
-.subheader-text {
-  float:left;
+.footer {
+  opacity: .7;
+  background:#000000;
+  font-size:10px;
+  color:#FFFFFF;
+  padding:10px;
 }
 
-.subheader-img {
+.footer-text {
+  opacity:.5;
+}
+
+.icon {
+  height:40px;
   float:right;
 }
 
@@ -33,14 +50,11 @@ body {
 }
 
 .textbox {
-  opacity:.4;
-  background:#FFFFFF;
-  color:#000000;
-  margin:0px 0px 20px 0px;
-  padding:5px;
-  border-width:0px 10px 10px 10px;
-  border-style:solid;
-  border-color:#000000;
+  opacity:.6;
+  background:#000000;
+  color:#FFFFFF;
+  margin:0px 0px;
+  padding:10px;
 }
 
 #slider {

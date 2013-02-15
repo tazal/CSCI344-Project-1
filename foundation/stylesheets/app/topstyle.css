@@ -20,8 +20,22 @@ h4 {
   color:#FFFFFF;
 }
 
+h5 {
+  font-family:"Nova Square", sans-serif;
+  color:#FFFFFF;
+}
+
 a {
   color:#FF8888;
+}
+
+.centered {
+  text-align:center;
+}
+
+.dark {
+  background:#000000;
+  opacity: .8;
 }
 
 .header {
@@ -77,4 +91,8 @@ a {
 
 #slider {
   margin:0px;
+}
+
+#registration-result {
+  display:none;
 }

@@ -1,9 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Nova+Square);
+@import url(http://fonts.googleapis.com/css?family=Maven+Pro);
+
 body {
   background:#CCCCFF;
+  font-family:"Maven Pro", sans-serif;
+}
+
+h1{
+  font-family:"Nova Square", sans-serif;
 }
 
 h3 {
-  font-size:30px;
+  font-family:"Nova Square", sans-serif;
+  color:#FFFFFF;
+}
+
+h4 {
+  font-family:"Nova Square", sans-serif;
   color:#FFFFFF;
 }
 
@@ -26,6 +39,11 @@ a {
   padding:10px;
 }
 
+.blurbs {
+  opacity:.3;
+  background:#000000;
+}
+
 .footer {
   opacity: .7;
   background:#000000;
@@ -40,11 +58,10 @@ a {
 
 .icon {
   height:40px;
-  float:right;
 }
 
 .nav-bar {
-  opacity:.5;
+  opacity:.6;
   background:#000000;
   margin:0px;
 }
@@ -53,8 +70,9 @@ a {
   opacity:.6;
   background:#000000;
   color:#FFFFFF;
-  margin:0px 0px;
-  padding:10px;
+  margin:25px 0px;
+  padding:20px;
+  border:1px solid #FFFFFF;
 }
 
 #slider {
